@@ -1,22 +1,20 @@
-# cartpole_openai_gym
-
-Getting Started with OpenAI Gymnasium for Reinforcement Learning
+# OpenAI Gymnasium for Reinforcement Learning
 
 This repository provides a foundational setup for running reinforcement learning experiments using Gymnasium (the maintained fork of OpenAI's Gym).
 
 It includes a step-by-step guide to installing the necessary libraries on Linux and a starter script for the classic CartPole-v1 environment to demonstrate the core API. The goal is to provide a launchpad for you to explore and create your own RL agents.
 
-🚀 Installation and Setup (Linux)
+# Installation and Setup (Linux)
 
 Follow this guide to configure a clean, isolated Python environment for your projects.
 
 Step 1: Update Your System
 
 Ensure your system's package manager has the latest list of available software.
-
+'''
 sudo apt-get update
 sudo apt-get upgrade
-
+'''
 
 Step 2: Install Python Essentials
 
